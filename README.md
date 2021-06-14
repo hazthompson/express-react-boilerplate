@@ -4,6 +4,10 @@
 
 Technical stack:
 
+## Deploy link
+
+https://git.heroku.com/cryptic-refuge-52064.git
+
 ### Front end
 
 - [React](https://reactjs.org/)
